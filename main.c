@@ -28,7 +28,7 @@ void main(void) {
         m[i] = (int *) malloc(numVertices * sizeof(int));
     }
 
-    /* Perform DFS on the graph */
+    /* Perform BFS on the graph */
     bfs(graph, m);
 
     /* Print matrix */
