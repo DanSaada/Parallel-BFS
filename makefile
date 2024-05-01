@@ -1,5 +1,5 @@
 # Target executable name
-TARGET = part_III.out
+TARGET = parallelBFS.out
 
 # Source files
 SRCS = main.c BFS/bfs.c SyncGraph/graph.c ThreadPool/TaskQueue.c ThreadPool/ThreadPool.c
