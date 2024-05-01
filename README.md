@@ -1,6 +1,8 @@
 # Parallel-BFS
 This project implement a parallel BFS algorithm for undirected graphs, which calculates the shortest path matrix for a given graph.
 
+![image](https://github.com/DanSaada/Parallel-BFS/assets/112869076/f5bc4f0f-0adf-4d02-9cd3-b7c969923b89)
+
 ## Implementation
 
 
