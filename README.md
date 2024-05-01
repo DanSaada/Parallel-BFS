@@ -4,7 +4,10 @@ This project implement a parallel BFS algorithm for undirected graphs, which cal
 ![image](https://github.com/DanSaada/Parallel-BFS/assets/112869076/f5bc4f0f-0adf-4d02-9cd3-b7c969923b89)
 
 ## Implementation
-
+* Graph: Handles the representation and initialization of the graph.
+* TaskQueue: Manages the queue of tasks (nodes to be processed) in a thread-safe manner.
+* ThreadPool: Manages worker threads that execute BFS concurrently.
+* BFS: Contains the BFS algorithm logic that interacts with other components to perform parallel traversal.
 
 ## Installing And Executing
     
